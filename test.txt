@@ -1,1 +1,2 @@
 mcp git tool is working
+added new line
